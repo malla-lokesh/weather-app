@@ -1,6 +1,14 @@
 ## Getting Started
 
-First, clone the repo and run by the following commands based what you use (npm, yarn or bun):
+1. clone the repo
+2. install the dependencies by running the command :
+  ```
+ npm install
+# or
+yarn install
+
+```
+3. run by the following commands based what you use (npm, yarn or bun):
 
 ```bash
 npm run dev
